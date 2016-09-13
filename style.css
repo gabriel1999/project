@@ -1,0 +1,49 @@
+@import 'https://fonts.googleapis.com/css?family=PT+Sans';
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  color:white;
+  background-image: url("http://parigo94.p.a.pic.centerblog.net/8ay7ccyc.jpg");
+  background-size: cover;
+}
+
+#Title {
+  text-align:center;
+}
+
+p {
+width: 600px;
+background-color: #93322C;
+border:2px solid white;
+}
+
+#referance {
+  background-color: #EC7063;
+  border:0px ;
+  width: 300px;
+}
+
+#TheBeginning {
+  text-align:center;}
+
+#Career {
+  text-align:center;}
+
+#PersonalLife {
+  text-align:center;}
+
+#Controversials {
+  text-align:center;}
+
+#Gallery {
+  text-align:center;}
+
+img{border: 1px solid white;}
+
+#gallerypic{
+  border:2px solid white;
+}
+
+#nav{
+  color:white;
+}
